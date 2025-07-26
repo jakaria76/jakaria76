@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Md.+Jakaria+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;CSE+Student+at+AUST+%F0%9F%92%BB;Tech+Lover+%F0%9F%94%A5;Welcome+to+my+GitHub+profile+!+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Md.+Jakaria+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;CS+Student+at+AUST+%F0%9F%92%BB;Tech+Lover+%F0%9F%94%A5;Welcome+to+my+GitHub+profile+!+%F0%9F%8C%90" alt="Typing SVG" />
 </p>
 
 ---
