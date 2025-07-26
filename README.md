@@ -1,76 +1,57 @@
-<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Md. Jakaria</h1>
-<h3 align="center">🚀 Flutter & Web Developer | Student at AUST (CSE)</h3>
+<h3 align="center">💻 A passionate Flutter Developer & CS student from AUST</h3>
 
-<!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/qIufhof.png" alt="Banner" width="100%" />
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
 </p>
-
-<!-- About Me -->
-## 👨‍💻 About Me
-
-- 🎓 I’m a CSE student at **Ahsanullah University of Science and Technology (AUST)**
-- 🌱 Currently learning **.NET Core, Node.js, and advanced Firebase**
-- 🛠️ Working on **QuickBites – A food delivery app using Flutter & Firebase**
-- 💬 Ask me about **Flutter, Firebase, ASP.NET, REST APIs, React**
-- 📫 Email: [jakaria@example.com](mailto:jakaria@example.com)
-- ⚡ Fun Fact: I love building sleek UI/UX with Flutter & solving real-world problems
 
 ---
 
-<!-- Tech Stack -->
-## 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+### 🛠️ My Tech Stack
+
+<p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="45%"/>
 </p>
 
 ---
 
-<!-- Featured Projects -->
-## 🚀 Featured Projects
-
-- 🔥 [QuickBites](https://github.com/yourusername/QuickBites): A modern food delivery app made with Flutter + Firebase
-- 🕌 [Islamic App](https://github.com/yourusername/IslamicApp): Shows prayer times and nearby mosques using Maps
-- 🛍️ [Shopping Cart](https://github.com/yourusername/ShoppingCart): Windows Forms App with currency converter & cart system
-- 🚌 [Bus Ticketing System](https://github.com/yourusername/BusTicketApp): Buy bus tickets online using Flutter
+### 🧠 Currently Learning
+- Firebase Functions
+- Backend with Node.js and MongoDB
+- Flutter animations
 
 ---
 
-<!-- Contact Links -->
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jakaria@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@yourchannel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://fb.com/yourfbprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
-  </a>
-</p>
+### 📫 How to reach me
+- 📧 Email: youremail@gmail.com
+- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
 
 ---
 
-<p align="center">Thanks for visiting! ✨</p>
+### ⚡ Fun Fact
+I love solving real-world problems and turning them into mobile apps!
+
