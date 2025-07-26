@@ -74,13 +74,7 @@
 - 🌍 Portfolio: [jakaria76.github.io](https://jakaria76.github.io)  
 - 💬 LinkedIn: [linkedin.com/in/md-jakaria76](https://www.linkedin.com/in/md-jakaria76/)
 
----
 
-<h2 align="center">⚡ Fun Fact</h2>
-
-<p align="center">I enjoy building full-stack solutions from scratch – whether it's a Flutter app, a MERN web app, or a .NET project!</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jakaria76&label=Profile+views&color=blue&style=flat" alt="Profile views" />
