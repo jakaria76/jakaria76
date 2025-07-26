@@ -8,13 +8,13 @@
 <h2 align="center">🔗 Connect with me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/md-jakaria76/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@gmail.com" target="_blank">
+  <a href="mailto:jakariamahmud76@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://jakaria76.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
@@ -39,8 +39,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight&hide_border=true&border_radius=10" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jakaria76&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jakaria76&theme=tokyonight&hide_border=true&border_radius=10" width="47%" />
 </p>
 
 ---
@@ -56,9 +56,9 @@
 
 <h2 align="center">📫 Reach Me Anytime</h2>
 
-- ✉️ Email: `youremail@gmail.com`  
-- 🌍 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-- 💬 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+- ✉️ Email: [jakariamahmud76@gmail.com](mailto:jakariamahmud76@gmail.com)  
+- 🌍 Portfolio: [jakaria76.github.io](https://jakaria76.github.io)  
+- 💬 LinkedIn: [linkedin.com/in/md-jakaria76](https://www.linkedin.com/in/md-jakaria76/)
 
 ---
 
@@ -69,5 +69,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+views&color=blue&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jakaria76&label=Profile+views&color=blue&style=flat" alt="Profile views" />
 </p>
