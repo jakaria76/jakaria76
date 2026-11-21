@@ -14,7 +14,7 @@
   <a href="mailto:jakariamahmud76@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://jakaria76.github.io" target="_blank">
+  <a href="https://md-jakaria-mahmud.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
