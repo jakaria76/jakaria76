@@ -71,7 +71,7 @@
 <h2 align="center">📫 Reach Me Anytime</h2>
 
 - ✉️ Email: [jakariamahmud76@gmail.com](mailto:jakariamahmud76@gmail.com)  
-- 🌍 Portfolio: [jakaria76.github.io](https://jakaria76.github.io)  
+- 🌍 Portfolio: [jakaria76.github.io]([https://jakaria76.github.io](https://md-jakaria-mahmud.vercel.app))  
 - 💬 LinkedIn: [linkedin.com/in/md-jakaria76](https://www.linkedin.com/in/md-jakaria76/)
 
 
