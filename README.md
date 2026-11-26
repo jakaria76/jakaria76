@@ -40,7 +40,7 @@
 | | Project | What it does | Tech | Links |
 |:---:|---|---|---|---|
 | 🎓 | **ThesisNest** | Thesis management platform with plagiarism detection, SignalR chat and AI assistance | .NET 9 · SignalR · SQL Server | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jakaria76/ThesisNest) |
-| 🤝 | **Conscious Student Society Web** | Role-based welfare portal with admin panels | ASP.NET Core MVC | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jakaria76/CSS) |
+| 🤝 | **Conscious Student Society Web** | Role-based welfare portal with admin panels | ASP.NET Core MVC | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jakaria76/CSS-Web) |
 | 📚 | **BookStore** | E-commerce bookstore with live search, cart and wishlist | Laravel · Livewire | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jakaria76/BookStore) |
 
 ---
