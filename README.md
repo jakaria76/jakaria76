@@ -1,10 +1,10 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Md.+Jakaria+Mahmud+%F0%9F%91%8B;Full+Stack+%26+Mobile+App+Developer+%F0%9F%93%B1;3+Apps+Live+on+Google+Play+%F0%9F%9A%80;Flutter+%E2%80%A2+ASP.NET+Core+%E2%80%A2+Laravel+%E2%80%A2+React+%F0%9F%92%BB;Published+Researcher+(Wiley)+%F0%9F%93%84" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+MD.+Jakaria+Mahmud+%F0%9F%91%8B;Full+Stack+%26+Mobile+App+Developer+%F0%9F%93%B1;3+Apps+Live+on+Google+Play+%F0%9F%9A%80;Next.js+%E2%80%A2+Flutter+%E2%80%A2+ASP.NET+Core+%E2%80%A2+Laravel+%F0%9F%92%BB;Published+Researcher+(Wiley)+%F0%9F%93%84" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Full Stack & Mobile App Developer</b> from Dhaka, Bangladesh · CSE @ AUST
+  <b>Full Stack & Mobile App Developer</b> at <a href="https://marinersgroup.com.bd/" target="_blank">Mariners Group</a> · Dhaka, Bangladesh · B.Sc. in CSE @ AUST
 </p>
 
 ---
@@ -18,6 +18,9 @@
   <a href="https://www.linkedin.com/in/md-jakaria76/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://orcid.org/0009-0009-3280-3012" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>
   <a href="mailto:jakariamahmud76@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -29,9 +32,9 @@
 
 | | App | What it does | Links |
 |:---:|---|---|---|
+| <img src="https://raw.githubusercontent.com/jakaria76/portfolio/main/public/projects/biniyog-club-logo.png" width="48" /> | **Biniyog Club** | FinTech investment app with group investing, profit tracking and PDF reports | [![Google Play](https://img.shields.io/badge/Google_Play-10b981?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.biniyogclub.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jakaria76/Biniyog-Club) |
 | <img src="https://raw.githubusercontent.com/jakaria76/portfolio/main/public/projects/css-society-logo.png" width="48" /> | **Conscious Student Society** | Community & social welfare app with a blood donor network, Gemini AI assistant and MFA | [![Google Play](https://img.shields.io/badge/Google_Play-10b981?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.css.society.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jakaria76/CSS_Flutter_APP) |
 | <img src="https://raw.githubusercontent.com/jakaria76/portfolio/main/public/projects/rojar-alo-logo.png" width="48" /> | **Rojar Alo** | Islamic lifestyle & Ramadan companion with prayer times, Qibla compass and Tasbih counter | [![Google Play](https://img.shields.io/badge/Google_Play-10b981?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.rojaralo.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tanvirarif033/rojar_alo_apk) |
-| <img src="https://raw.githubusercontent.com/jakaria76/portfolio/main/public/projects/biniyog-club-logo.png" width="48" /> | **Biniyog Club** | FinTech investment app with group investing, profit tracking and PDF reports | [![Google Play](https://img.shields.io/badge/Google_Play-10b981?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.biniyogclub.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jakaria76/Biniyog-Club) |
 
 ---
 
@@ -51,7 +54,7 @@
 >
 > *Applied AI Letters (Wiley), 2026* · YOLOv11 · Vision Transformers · Segment Anything Model
 >
-> [![Read Paper](https://img.shields.io/badge/Read_Paper-DOI%3A%2010.1002%2Fail2.70045-1E40AF?style=flat-square)](https://doi.org/10.1002/ail2.70045)
+> [![Read Paper](https://img.shields.io/badge/Read_Paper-DOI%3A%2010.1002%2Fail2.70045-1E40AF?style=flat-square)](https://doi.org/10.1002/ail2.70045) [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--3280--3012-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-3280-3012)
 
 ---
 
@@ -67,14 +70,17 @@
 
 <p align="center"><b>⚙️ Backend</b></p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 <p align="center"><b>🎨 Frontend</b></p>
 <p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -87,6 +93,7 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -107,9 +114,9 @@
 
 <h2 align="center">🧠 Currently Learning</h2>
 
-- Advanced Flutter animations
-- Clean Architecture in Flutter
-- Firebase Cloud Functions
+- Scalable ERP architecture with Next.js, TypeScript & Prisma
+- Clean Architecture & advanced animations in Flutter
+- Production VPS deployments with Nginx & PM2
 - MongoDB Aggregation Framework
 
 ---
@@ -119,6 +126,7 @@
 - 🌍 Portfolio: [md-jakaria-mahmud.vercel.app](https://md-jakaria-mahmud.vercel.app)
 - ✉️ Email: [jakariamahmud76@gmail.com](mailto:jakariamahmud76@gmail.com)
 - 💬 LinkedIn: [linkedin.com/in/md-jakaria76](https://www.linkedin.com/in/md-jakaria76/)
+- 🔬 ORCID: [orcid.org/0009-0009-3280-3012](https://orcid.org/0009-0009-3280-3012)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jakaria76&label=Profile+views&color=blue&style=flat" alt="Profile views" />
